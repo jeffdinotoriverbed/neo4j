@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fneo4j.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fneo4j?ref=badge_shield)
+
 = Neo4j: Graphs for Everyone =
 
 https://neo4j.com[Neo4j] is the world's leading Graph Database. It is a high performance graph store with all the features expected of a mature and robust database, like a friendly query language and ACID transactions. The programmer works with a flexible network structure of nodes and relationships rather than static tables -- yet enjoys all the benefits of enterprise-quality database. For many applications, Neo4j offers orders of magnitude performance benefits compared to relational DBs.
@@ -70,3 +72,6 @@ to start Neo4j.
 Neo4j Community Edition is an open source product licensed under GPLv3.
 
 Neo4j Enterprise Edition includes additional closed-source components _not available in this repository_ and requires a commercial license from Neo4j or one of its affiliates.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fneo4j.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fneo4j?ref=badge_large)
